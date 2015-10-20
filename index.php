@@ -24,9 +24,9 @@
 	<input type="file" name="file"><br>
 	<hr>
 	<input type="radio" name="method" value="github"> {EXPERIMENTAL} GitHub link <br>
-	<input type="checkbox" name="api"> Output as JSON
-	<br>
+	<hr>
 	<input type="submit">
+	<input type="checkbox" name="api"> output as JSON
 </form>
 </body>
 </html>
